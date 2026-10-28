@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.db
+*.sqlite3
+venv/
+env/
+
+# Node / React
+node_modules/
+dist/
+.env.local
+
+# Project data generated files
+data/generated/*
+!data/generated/.gitkeep
+
+# Reports
+reports/*
+!reports/.gitkeep
